@@ -5,8 +5,8 @@
     <classes>
       <class name="homePage.myTestcases">
         <methods>
-          <include name="CheckQitagLogo"/>
           <include name="mySetup"/>
+          <include name="CheckDepatureDate"/>
         </methods>
       </class> <!-- homePage.myTestcases -->
     </classes>
